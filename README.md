@@ -10,6 +10,26 @@
 
 This repository contains a production-ready Autonomous Ground Vehicle (AGV) navigation system that combines computer vision, real-time control systems, and embedded programming. The architecture implements a distributed control system with ESP32-based hardware abstraction layer and Python-based computer vision pipeline, enabling seamless transitions between manual operation and autonomous navigation modes.
 
+## Visual Documentation
+
+### System Architecture
+![System Architecture](files/image.png)
+*Comprehensive system architecture diagram showing the integration between computer vision, communication layer, and embedded control systems.*
+
+### AGV Physical Design
+![AGV View](files/image2.png)
+*Physical view of the Autonomous Ground Vehicle showing the complete assembly with motor controllers, ESP32, and camera system.*
+
+### 3D Model Visualization
+![STL View of AGV](files/image3.png)
+*3D rendered view from the STL model showcasing the mechanical design and component placement.*
+
+### Electronics & PCB Design
+![PCB of the AGV](files/image4.png)
+*Custom PCB design for the AGV control system featuring ESP32 integration and motor driver interfaces.*
+
+> **Note**: For demonstration videos of the AGV in action, including traversing over UDP control, please refer to the video files in the repository.
+
 ## Architecture Overview
 
 The system follows a modular, event-driven architecture with clear separation of concerns:
