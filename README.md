@@ -25,7 +25,7 @@ This repository contains a production-ready Autonomous Ground Vehicle (AGV) navi
 *3D rendered view from the STL model showcasing the mechanical design and component placement.*
 
 ### Electronics & PCB Design
-![PCB of the AGV](files/image4.png)
+![PCB of the AGV](files/image4.jpg)
 *Custom PCB design for the AGV control system featuring ESP32 integration and motor driver interfaces.*
 
 > **Note**: For demonstration videos of the AGV in action, including traversing over UDP control, please refer to the video files in the repository.
